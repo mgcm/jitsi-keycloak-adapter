@@ -1,4 +1,4 @@
-FROM denoland/deno
+FROM denoland/deno:alpine
 LABEL version="v20231029"
 
 WORKDIR /app
